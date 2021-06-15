@@ -1,0 +1,2 @@
+1.Elements of Programming Interviews in Python The Insiders’ Guide by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
+2.Python Tricks A Buffet of Awesome Python Features by Dan Bader (z-lib.org)
