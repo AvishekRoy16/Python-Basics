@@ -11,3 +11,5 @@ Till now you will find the topics:
 6. Functions
 7. Lists
 8. Searching and Sorting
+9. Strings
+10. 2D Lists
