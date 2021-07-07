@@ -3,6 +3,11 @@ This repository includes all the practice problems and assignments which I've so
 If you're unable to view the patterns properly in Jupyter notebook then double-click the markdown cell to enlarge. 
 File names which contain practice means the assignments of that particular topic. For an example, Patterns 1 Practice.ipynb means assignments file of first part of Patterns topic. 
 
+Get the code by either cloning this repository using git
+```
+git clone https://github.com/AvishekRoy16/Python-Basics.git
+```
+
 Topics discussed are:-
 1)  Python Basics 1:
     * [Conditions and Loops](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics1.ipynb)
