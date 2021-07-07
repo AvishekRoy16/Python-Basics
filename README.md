@@ -1,15 +1,32 @@
-# Python
-This repository has all the things I have learned and currently learning in it.  
-It also has well maintained programming questions that I have practiced on it.
+# Introduction to Python - Coding Ninjas
+This repository includes all the practice problems and assignments which I've solved during the Intro Course of Python Programming taught by Coding Ninjas. 
+If you're unable to view the patterns properly in Jupyter notebook then double-click the markdown cell to enlarge. 
+File names which contain practice means the assignments of that particular topic. For an example, Patterns 1 Practice.ipynb means assignments file of first part of Patterns topic. 
 
-Till now you will find the topics:
-1. Intro to Python
-2. Conditionals and Loops
-3. Patterns 1
-4. Patterns 2
-5. More on Loops
-6. Functions
-7. Lists
-8. Searching and Sorting
-9. Strings
-10. 2D Lists
+Topics discussed are:-
+1)  Python Basics 1:
+    * [Conditions and Loops](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics1.ipynb)
+    * [Patterns](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics1.ipynb)
+    * [More on Loops](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics1.ipynb)
+  
+2) Python Basics 1:
+   * [Functions](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics2.ipynb)
+   * [Arrays/Lists](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics2.ipynb)
+   * [Searching & Sorting](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics2.ipynb)
+
+3) Python Basics 3:
+   * [Strings](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics3.ipynb)
+   * [Two Dimensional Lists](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics3.ipynb)
+   *  [Tuples, Dictionary and Sets](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics3.ipynb)
+
+__Download Jupyter notebook from here:__ https://jupyter.org/  
+__Installing Jupyter notebook:__ https://jupyter.org/install  
+If you're not comfortable with Jupyter notebooks then you can use __Google Colab (Online Editor):__ https://colab.research.google.com/  
+
+            
+**P.S**: Refer serial wise to avoid confusion and non-understanding of topics            
+**TIP**: Before Going through the notebook, go through the notes provided in [Notes](https://github.com/AvishekRoy16/Python/tree/master/Archive/Course%20Material) 
+
+Register the course with the following referral link to get a discount of ₹1,000/-    
+Referral Link: https://www.codingninjas.com/?referralCode=HNJST    
+**P.S: Don't forget to sign up with a new ID to avail discount**
