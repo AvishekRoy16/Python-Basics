@@ -24,13 +24,15 @@ Topics discussed are:-
    * [Two Dimensional Lists](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics3.ipynb)
    *  [Tuples, Dictionary and Sets](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics3.ipynb)
 
+Check the [IMPORTANT](https://github.com/AvishekRoy16/Python-Basics/blob/master/Remember.ipynb) for a quick glance for the most important concepts.
+
 __Download Jupyter notebook from here:__ https://jupyter.org/  
 __Installing Jupyter notebook:__ https://jupyter.org/install  
 If you're not comfortable with Jupyter notebooks then you can use __Google Colab (Online Editor):__ https://colab.research.google.com/  
 
             
 **P.S**: Refer serial wise to avoid confusion and non-understanding of topics            
-**TIP**: Before Going through the notebook, go through the notes provided in [Notes](https://github.com/AvishekRoy16/Python/tree/master/Archive/Course%20Material) 
+**TIP**: Before Going through the notebook, go through the notes provided in [Notes](https://github.com/AvishekRoy16/Python-Basics/tree/master/Course%20Material) 
 
 Register the course with the following referral link to get a discount of ₹1,000/-    
 Referral Link: https://www.codingninjas.com/?referralCode=HNJST    
