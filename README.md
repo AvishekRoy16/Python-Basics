@@ -14,7 +14,7 @@ Topics discussed are:-
     * [Patterns](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics1.ipynb)
     * [More on Loops](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics1.ipynb)
   
-2) Python Basics 1:
+2) Python Basics 2:
    * [Functions](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics2.ipynb)
    * [Arrays/Lists](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics2.ipynb)
    * [Searching & Sorting](https://github.com/AvishekRoy16/Python/blob/master/PythonBasics2.ipynb)
